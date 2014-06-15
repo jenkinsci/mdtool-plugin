@@ -10,6 +10,7 @@
   <version>0.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Xamarin Studio Tool Runner Plugin</name>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/mdtool+Plugin</url>
 
   <licenses>
     <license>
@@ -17,6 +18,20 @@
       <url>http://opensource.org/licenses/MIT</url>
     </license>
   </licenses>
+
+  <developers>
+    <developer>
+      <id>fen_x</id>
+      <name>Ivan Nikitin</name>
+      <email>fenix661@gmail.com</email>
+    </developer>
+  </developers>
+
+  <scm>
+    <connection>scm:git:git://github.com/jenkinsci/mdtool-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/mdtool-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/mdtool-plugin</url>
+  </scm>
 
   <repositories>
     <repository>
