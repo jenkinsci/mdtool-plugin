@@ -1,3 +1,3 @@
-# mdtool Plugin
+# Xamarin Studio Tool Runner Plugin
 
-Jenkins plugin to use Xamarin Studio Tool Runner — `mdtool`.
+Jenkins plugin to use Xamarin Studio Tool Runner - mdtool.

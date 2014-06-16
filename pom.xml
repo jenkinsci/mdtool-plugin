@@ -10,7 +10,7 @@
   <version>0.2-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Xamarin Studio Tool Runner Plugin</name>
-  <url>http://wiki.jenkins-ci.org/display/JENKINS/mdtool+Plugin</url>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/Xamarin+Studio+Tool+Runner+Plugin</url>
 
   <licenses>
     <license>
